@@ -8,6 +8,9 @@ minikube - the tool that runs a single-node Kubernetes cluster inside a containe
 
 kubectl - command line tool used to talk to the kubernetes cluster
 
+<img width="705" height="477" alt="image" src="https://github.com/user-attachments/assets/7dee94e3-36aa-421e-a948-ab7a84c57241" />
+
+
 *project throughput*
 
 1. start
