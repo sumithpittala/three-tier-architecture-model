@@ -52,6 +52,11 @@ kubectl - command line tool used to talk to the kubernetes cluster
 └── README.md             # Your professional project documentation
 ```
 
+*project output*
+
+<img width="661" height="500" alt="Screenshot 2026-06-16 190845" src="https://github.com/user-attachments/assets/02325209-3559-4def-9644-4d1fbbb4b5e4" />
+
+
 *project bulletins*
 
 - Orchestrated a three-tier web application (React, Node.js, MongoDB) using Kubernetes, ensuring high availability and self-healing capabilities
